@@ -1,0 +1,7 @@
+F:\GITtraining\gitworks\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+F:\GITtraining\gitworks\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+F:\GITtraining\gitworks\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+F:\GITtraining\gitworks\FirstApp\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+F:\GITtraining\gitworks\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+F:\GITtraining\gitworks\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+F:\GITtraining\gitworks\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
